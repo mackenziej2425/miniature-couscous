@@ -1,3 +1,9 @@
+#ignore all csv
+*.csv
+#API keys and pws
+heeh3 qjhdj
+3838
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
